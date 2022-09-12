@@ -1,4 +1,4 @@
-# [hepl-web.github.io](http://hepl-web.github.io)
+# [tecg-web.github.io](http://tecg-web.github.io)
 
 > Listing website for the repositories of the web section of the HEPL (Haute École de la Province de Liège), in Belgium
 
@@ -10,4 +10,4 @@
 
 ## HEPL - Bachelier en Techniques Graphiques - Orientation Techniques Infographiques - Section Web
 
-Le présent dépôt est celui d'un mini-site, [hepl-web.github.io](http://hepl-web.github.io), qui nous sert à lister les différentes organisations GitHub utilisées pour chaque cours de la section web.
+Le présent dépôt est celui d'un mini-site, [hepl-web.github.io](http://tecg-web.github.io), qui nous sert à lister les différentes organisations GitHub utilisées pour chaque cours de la section web.
