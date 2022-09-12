@@ -19,6 +19,8 @@ html {
 
 body {
     padding: .5rem 2rem;
+    max-width: 50em;
+    margin: auto;
 }
 
 h1 abbr, h1 strong, h1 span, h1 em {
